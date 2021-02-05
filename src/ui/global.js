@@ -19,7 +19,7 @@ export default createGlobalStyle`
     --font-max-width: 800px;
 
     /* Colors */
-    --color-main-background: #fff;
+    --color-main-background: red;
     --color-text-main: #080708;
     --color-text-sub: #4c505b;
 
